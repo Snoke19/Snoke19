@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Oleksandr+%F0%9F%91%8B;Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Microservices;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
-</div>
-
 <p align="center">
   <i>Middle Java Developer with a strong background in designing and shipping production-grade RESTful APIs and backend services. Experienced in delivering end-to-end scalable solutions, from database architecture to AI-powered integrations and automated CI/CD.</i>
 </p>
